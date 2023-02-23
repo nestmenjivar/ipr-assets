@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<base href="https://go.recycling.internationalpaper.com" >
+		<meta charset="utf-8"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="description" content="%%description%%"/>
+		<title>%%title%%</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols+2&amp;display=swap" rel="stylesheet">
+	
+	<style type="text/css">
+
+    <!-- font-face declaration for regular version -->
+    @font-face {
+        font-family: 'Faktum';
+        font-weight: 400;
+        src: url('https://go.recycling.internationalpaper.com/l/997001/2023-02-22/816k/997001/1677091365diE2lorz/Faktum_Regular.woff');
+    }
+
+    <!-- font-face declaration for medium version -->
+    @font-face {
+        font-family: 'Faktum';
+        font-weight: 500;
+        src: url('https://go.recycling.internationalpaper.com/l/997001/2023-02-22/816r/997001/1677091365rVHTZnLj/Faktum_Medium.woff');
+    }
+
+    <!-- font-face declaration for bold version -->
+    @font-face {
+        font-family: 'Faktum';
+        font-weight: 500;
+        src: url('https://go.recycling.internationalpaper.com/l/997001/2023-02-22/815v/997001/1677091364nNtKgELu/Faktum_Bold.woff');
+    }
+
+    <!-- This CSS will use the medium font -->
+    #pardot-form {
+        font-family: 'Faktum';
+        font-weight: 500;
+    }
+    
+    @font-face {
+    font-family: "icomoon";
+    src: url('https://intlpaperstg.prod.acquia-sites.com/themes/custom/themekit/dist/assets/fonts/icomoon/fonts/icomoon.eot');
+    src: url('https://intlpaperstg.prod.acquia-sites.com/themes/custom/themekit/dist/assets/fonts/icomoon/fonts/icomoon.eot'#iefix) format("embedded-opentype"),url('https://intlpaperstg.prod.acquia-sites.com/themes/custom/themekit/dist/assets/fonts/icomoon/fonts/icomoon.woff') format("woff"),url('https://intlpaperstg.prod.acquia-sites.com/themes/custom/themekit/dist/assets/fonts/icomoon/fonts/icomoon.svg'#3xl) format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+    
+    </style>
+	
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="https://go.recycling.internationalpaper.com/styles.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="white-bg">
+        <div class="header clearfix">
+          <div class="logo pull-left">
+              <img alt="" border="0" height="65" src="https://go.recycling.internationalpaper.com/l/997001/2023-02-17/7rr5/997001/16766851634pzQ2eVs/IP_Signature_Horz_RGB.jpg" style="width: 300px; border-width: 0px; border-style: solid" width="300">
+          </div>
+          <button type="button" class="navbar-toggle collapsed pull-right" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        <div id="navbar" class="navbar-collapse collapse pull-right">
+          <ul class="nav navbar-nav">
+            <li>
+                <a href="https://www.internationalpaper.com/recycling">Recycling Overview <span class="arrow">➔</span></a>
+                </li>
+            <li>
+                <a href="https://www.internationalpaper.com/recycling">Recycling Solutions <span class="arrow">➔</span></a>
+                </li>
+            <li>
+                <a href="https://www.internationalpaper.com/recycling/locations">Recycling Locations <span class="arrow">➔</span></a></li>
+          </ul>
+        </div>
+        
+      </div>
+      <div class="featured-image">
+        <div class="mktoImg" id="mkto-featured-image" mktoName="Featured Image">
+        </div>
+      </div>
+      <div class="content">
+          <div class="row">
+              <div class="content-left col-md-6">
+
+<!-- Start Pardot Editable Section -->
+                  <div class="mktoText" id="mkto-main-content" mktoName="Main Content">
+                  
+                  <img alt="" border="3" src="https://go.recycling.internationalpaper.com/l/997001/2023-02-23/836c/997001/1677185937f1oAGMFc/IP_Education_WhitePaper_Page_01.jpg" style="width: 45%; border: solid #b8bdc4 2px; margin: 50px 0">
+                  <div class="eyebrow">Free Whitepaper</div>
+                  <h1>The Circular Life of a Cardboard Box</h1>
+                  <br>
+                    <p>The simple corrugated cardboard box, strong and light, is a bedrock of the American economy. From big-box behemoth stores to the local mom-and-pop, almost every product sold in the United States is at some point contained in cardboard.<br></p>
+                    
+                    <h2>This whitepaper includes</h2>
+                    
+                    <ul class="demo-includes">
+                        <li>Lorem ipsum est dolor sit</li>
+                        <li>Lorem ipsum est dolor sit</li>
+                        <li>Lorem ipsum est dolor sit</li>
+                        <li>Lorem ipsum est dolor sit</li>
+                        <li>Lorem ipsum est dolor sit</li>
+                    </ul>
+                                        </div>
+                    
+                    
+<!-- End Editable Content Section -->
+              </div>
+              <div class="content-right col-md-6">
+                  <div class="form-container">
+                      <div class="form-header">
+                          <!-- Start Call To Action Title -->
+                          
+                            <h3>Contact Us</h3>
+                          
+                          <!-- End Call to Action Title -->
+                      </div>
+                      <div class="form-body">
+                          <!-- Start Form -->
+                            %%content%%
+                          <!-- End Form -->
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      </div>
+      <div class="footer">
+          <div class="row">
+              <div class="col-sm-7 copyright">
+                  <!-- Start Editable Footer -->
+                  &copy; 2023 International Paper. All Rights Reserved. Sustainability in Motion is a registered trademark of International Paper. <br />
+                  <a href="https://www.internationalpaper.com/legal-pages/privacy-statement">Privacy Policy</a> &nbsp; <a href="https://www.internationalpaper.com/legal-pages/terms-conditions">Terms of Use</a> &nbsp; 
+                  <!-- End Editable Footer -->
+              </div>
+              <div class="col-sm-5 social-links">
+              Follow us <br>
+              <a href="https://www.facebook.com/InternationalPaper">Facebook</a> | <a href="https://twitter.com/IntlPaperCo">Twitter</a> | <a href="https://www.instagram.com/internationalpaper/">Instagram</a> | <a href="https://www.linkedin.com/showcase/iprecycling/">LinkedIn</a>  | <a href="https://www.youtube.com/@InternationalPaper1">YouTube</a>
+              </div>
+          </div>
+      </div>
+    </div>  
+
+    <!-- Load jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <!-- Load Boostrap-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  </body>
+</html>
